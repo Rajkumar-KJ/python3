@@ -1,0 +1,5 @@
+Name,Age,ExamScore,City,Pass
+Alice,25.0,85.0,NY,False
+Bob,30.0,90.0,LA,True
+Charlie,35.0,88.0,NY,False
+David,29.5,92.0,SF,True
